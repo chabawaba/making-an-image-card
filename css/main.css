@@ -7,9 +7,9 @@ html {
   box-sizing: inherit;
 }
 
-.img-felx {
-  display: block
-  width: 100%
+.img-flex {
+  display: block;
+  width: 100%;
 }
 
 .card {
@@ -28,13 +28,13 @@ html {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 100%
+  width: 100%;
 }
 
 .card-label {
   padding: .3rem 1rem .3rem calc(1rem - 4px);
   border-left: 4px solid green;
-  background-color: rgba (255, 255, 255, .6)
+  background-color: rgba(255, 255, 255, .6);
   position: absolute;
   left: 0;
   top: 0;
